@@ -1,9 +1,13 @@
-# Introduction
+# SQL for Data Science with BigQuery
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+## Why BigQuery?
 
-```{tableofcontents}
-```
+## How to use this book
+
+### Practice for yourself!
+
+### Read documentation
+
+One of the best ways to level-up as a programmer is becoming comfortable with technical documentation and release notes. As you progress in your career, you'll drive more value to your organization by staying up-to-date with best practices, learning new tools, and using new features of the tools you love. 
+
+Release notes and documentation is the best way to do this. To encourage this practice, links to documentation, articles, and blog posts are provided as concepts are introduced.
