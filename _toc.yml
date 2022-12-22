@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: files/sql_basics/query_essentials.md
+  sections:
+  - file: files/sql_basics/from_clause.md
+  - file: files/sql_basics/select_statement.md
+  - file: files/sql_basics/where_clause.md
+  - file: files/sql_basics/limit_clause.md
